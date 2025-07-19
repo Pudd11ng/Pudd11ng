@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chai Ming Jing</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+Software+Engineering+Student;Full-Stack+%7C+Flutter+%7C+AI+%7C+DevOps&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+Software+Engineering+Student;Full-Stack+%7C+Flutter+%7C+AI+%7C+DevOps&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=18" />
 </p>
 
 <p align="center">
@@ -58,29 +58,6 @@ I actively explore modern **DevOps**, using `Docker`, `Jenkins`, and CI/CD on `G
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-00979D?logo=espressif&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pudd11ng&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pudd11ng&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pudd11ng&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🚀 Projects
-
-- 🔧 [**DriveSense**](https://github.com/Pudd11ng/DriveSense)  
-  Mobile-based IoT system using Flutter + ESP32-CAM + YOLO + Google ML Kit for driver behavior detection. Backend powered by Node.js, Express, and MongoDB on GCP.
-
-- 🌱 [**CarbonSense**](https://github.com/Pudd11ng/CarbonSense)  
-  Real-time carbon emissions monitoring platform using Spring MVC and MySQL for sustainable city initiatives.
 
 ---
 
