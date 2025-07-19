@@ -64,7 +64,7 @@ I actively explore modern **DevOps**, using `Docker`, `Jenkins`, and CI/CD on `G
 ### 🐾 Walking Pixel Cat
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/cat-walk.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/Pudd11ng/Pudd11ng/main/cat-rainbow.gif" width="300" />
 </p>
 
 ---
