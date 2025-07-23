@@ -23,7 +23,7 @@ I'm also passionate about **AI & Computer Vision**, with practical experience us
 I actively explore modern **DevOps**, using `Docker`, `Jenkins`, and CI/CD on `Google Cloud Platform (GCP)`.
 
 🔭 **Looking for**: Internship opportunities in **DevOps**, **Backend**, **Full-Stack**, **AI**, or **Mobile** roles.  
-🌐 [Visit My Portfolio](https://www.therealmj.my)
+> 🌐 [Visit My Portfolio](https://www.therealmj.my)
 ---
 
 ### 🛠️ Tech Stack
